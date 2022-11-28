@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **tailwindcss, javaScript, AlpineJs, ReactJs**
 
-- 📫 How to reach me **nnanna.echi018@uniport.edu.ng**
+- 📫 How to reach me **nnanna.echi018@uniport.edu.ng** || **https://wa.link/ne552g**
 
 - ⚡ Fun fact **I am Funny**
 
