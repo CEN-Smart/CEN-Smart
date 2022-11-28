@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/52352285/96442452-c64f2700-1228-11eb-8c92-35a64d4cef32.gif)](https://CEN-Smart.io)
 
 <h1 align="center">Hi 👋, I'm Chukwuemeka Echi Nnanna</h1>
-<h3 align="center">A front-end developer with an eye for detail, who would definitely be a great addition to your development team</h3>
+<h3 align="center">A passionate front-end developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47c2uwubg1h04lxjuilerhgwt44948559xe89ha93b&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cen-smart&label=Profile%20views&color=0e75b6&style=flat" alt="cen-smart" /> </p>
