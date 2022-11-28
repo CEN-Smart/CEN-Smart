@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **nnanna.echi018@uniport.edu.ng** || **https://wa.link/ne552g**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact: **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
