@@ -16,16 +16,6 @@
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47c2uwubg1h04lxjuilerhgwt44948559xe89ha93b&rid=giphy.gif&ct=g">
 
 
-- 🌱 I’m currently learning **ReactJs**
-
-- 👨‍💻 All of my projects are available at [https://my-bio-three.vercel.app/](https://my-bio-three.vercel.app/)
-
-- 💬 Ask me about **tailwindcss, javaScript, AlpineJs, ReactJs**
-
-- 📫 How to reach me **nnanna.echi018@uniport.edu.ng** || **https://wa.link/ne552g**
-
-- ⚡ Fun fact: **I am Funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/cen-smart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="cen-smart" height="30" width="40" /></a>
