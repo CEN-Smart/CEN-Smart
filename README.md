@@ -1,12 +1,21 @@
-[![MasterHead](https://user-images.githubusercontent.com/52352285/96442452-c64f2700-1228-11eb-8c92-35a64d4cef32.gif)](https://CEN-Smart.io)
+![Banner Image](https://i2.wp.com/i.giphy.com/media/UcK7JalnjCz0k/giphy-downsized.gif?w=770&ssl=1)
+<h3 align="center">Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm a Petroleum engineer 👨🏻‍💻 who loves to create for the web 🌐.</h3>
 
-<h1 align="center">Hi 👋, I'm Chukwuemeka Echi Nnanna</h1>
-<h3 align="center">A passionate front-end developer</h3>
+<p align="center">
+  <a href="mailto:nnanna.echi018@uniport.edu.ng" target="_blank"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/nnanna-echi-445b6249" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/echinnanna" target="_blank"><img height="25" src = "https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+  <a href="https://t.me/CEN Smart" target="_blank"><img height="25" src = "https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white"></a>
+   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img  height="25" src="https://github-profile-trophy.vercel.app/?username=cen-smart" alt="cen-smart" /></a>
+</p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=cen-smart&color=red"</p>
+
+----
+
+
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47c2uwubg1h04lxjuilerhgwt44948559xe89ha93b&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cen-smart&label=Profile%20views&color=0e75b6&style=flat" alt="cen-smart" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cen-smart" alt="cen-smart" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/echinnanna" target="blank"><img src="https://img.shields.io/twitter/follow/echinnanna?logo=twitter&style=for-the-badge" alt="echinnanna" /></a> </p>
 
