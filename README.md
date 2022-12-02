@@ -6,7 +6,6 @@
   <a href="https://linkedin.com/in/nnanna-echi-445b6249" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
   <a href="https://twitter.com/echinnanna" target="_blank"><img height="25" src = "https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white"></a>
   <a href="https://t.me/CEN Smart" target="_blank"><img height="25" src = "https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white"></a>
-   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img  height="25" src="https://github-profile-trophy.vercel.app/?username=cen-smart" alt="cen-smart" /></a>
     <a href="https://my-bio-three.vercel.app/" target="_blank"><img height="25" src = "https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
 </p>
 
@@ -64,7 +63,7 @@
   <br />
   <p align="center">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cen-smart&theme=dark&hide_border=true&background=0D1117&stroke=0000&count_private=true&include_all_commits=true" />
-    <img src="https://activity-graph.herokuapp.com/graph?username=itsnitinr&count_private=true&hide_border=true&bg_color=0d1117&theme=github" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=cen-smart&count_private=true&hide_border=true&bg_color=0d1117&theme=github" />
   </p>
 </details>
 
