@@ -15,9 +15,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47c2uwubg1h04lxjuilerhgwt44948559xe89ha93b&rid=giphy.gif&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cen-smart&label=Profile%20views&color=0e75b6&style=flat" alt="cen-smart" /> </p>
-
-<p align="left"> <a href="https://twitter.com/echinnanna" target="blank"><img src="https://img.shields.io/twitter/follow/echinnanna?logo=twitter&style=for-the-badge" alt="echinnanna" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJs**
 
