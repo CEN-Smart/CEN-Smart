@@ -1,76 +1,146 @@
-![Banner Image](https://i2.wp.com/i.giphy.com/media/UcK7JalnjCz0k/giphy-downsized.gif?w=770&ssl=1)
-<h3 align="center">Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm a Petroleum engineer 👨🏻‍💻 who loves to create for the web 🌐.</h3>
+<p align="center">
+  <img src="./assets/banner.png" alt="Nnanna Echi — Full Stack Developer (JavaScript, TypeScript, .NET)" width="100%" />
+</p>
+
+<h1 align="center">Hi, I'm Nnanna Echi 👋</h1>
 
 <p align="center">
-  <a href="mailto:nnanna.echi018@uniport.edu.ng" target="_blank"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/nnanna-echi-445b6249" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/echinnanna" target="_blank"><img height="25" src = "https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white"></a>
-  <a href="https://t.me/CEN Smart" target="_blank"><img height="25" src = "https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white"></a>
-    <a href="https://my-bio-three.vercel.app/" target="_blank"><img height="25" src = "https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <b>Backend Developer @ First Bank of Nigeria</b> · Full Stack Developer<br />
+  TypeScript · Node.js · NestJS · React / Next.js · C# / .NET
 </p>
 
-
-----
-
-
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47c2uwubg1h04lxjuilerhgwt44948559xe89ha93b&rid=giphy.gif&ct=g">
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/cen-smart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="cen-smart" height="30" width="40" /></a>
-<a href="https://twitter.com/echinnanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="echinnanna" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nnanna-echi-445b6249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nnanna-echi-445b6249" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17222800" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17222800" height="30" width="40" /></a>
-<a href="https://fb.com/echinnannachukwuemeka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="echinnannachukwuemeka" height="30" width="40" /></a>
-<a href="https://instagram.com/certified_smart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="certified_smart" height="30" width="40" /></a>
-<a href="https://medium.com/@echinnannachukwuemeka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@echinnannachukwuemeka" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://my-bio-three.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0B1D3A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/nnanna-echi-445b6249"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:nnanna.echi018@uniport.edu.ng"><img src="https://img.shields.io/badge/Email-3B82F6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://stackoverflow.com/users/17222800"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="https://medium.com/@echinnannachukwuemeka"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://twitter.com/echinnanna"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Currently-Backend_Developer_@_FirstBank-003B65?style=flat-square" alt="Currently Backend Developer at First Bank of Nigeria" />
+  <img src="https://komarev.com/ghpvc/?username=cen-smart&color=3B82F6&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
 
-## 🤓 Projects & GitHub
+---
+
+## 👨🏾‍💻 About Me
+
+<img align="right" src="./assets/profile.png" alt="Nnanna Echi" width="240" />
+
+I'm a **Backend Developer at [First Bank of Nigeria](https://www.firstbanknigeria.com/)**, where I build and maintain backend services for banking systems that need to be reliable, secure and auditable.
+
+Beyond my day job, I build **scalable, secure web applications** end to end, from well-structured REST APIs and relational data models to fast, accessible front-ends.
+
+I work across two ecosystems:
+
+- **JavaScript / TypeScript** — React, Next.js, Node.js, Express and NestJS, with Prisma ORM for type-safe data access.
+- **C# / .NET** — ASP.NET Core Web APIs with Entity Framework Core and Dapper for high-performance SQL.
+
+My background in **Petroleum Engineering** shaped how I work: analytical, detail-oriented, and focused on systems that hold up under real-world load.
+
+**What I bring to a team**
+
+- 🧱 Clean, layered architecture (controllers → services → data access) that's easy to test and extend
+- 🔐 Security-first APIs — authentication, authorization, input validation
+- ⚡ Performance-aware data access — knowing when to use an ORM and when to drop down to raw SQL
+- 🤝 Clear communication, code reviews, and documentation that helps the next developer
+
+<br clear="right" />
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,cs,html,css&theme=dark" alt="TypeScript, JavaScript, C#, HTML, CSS" />
+</p>
+
+**Front-end**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="React, Next.js, Tailwind CSS" />
+</p>
+
+**Back-end & Data**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,dotnet,prisma,mongodb&theme=dark" alt="Node.js, Express, NestJS, .NET, Prisma, MongoDB" />
+  <br />
+  <img src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
+  <img src="https://img.shields.io/badge/Dapper-1E3A8A?style=for-the-badge&logo=dotnet&logoColor=white" alt="Dapper" />
+</p>
+
+**Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Git, GitHub, VS Code, Postman" />
+</p>
+
+---
+
+## 💼 Experience
+
+### Backend Developer · [First Bank of Nigeria](https://www.firstbanknigeria.com/)
+
+*Lagos, Nigeria · Present*
+
+<!--
+  TODO: Change these bullets to match your actual work, and add numbers where you can
+  (e.g. "API serving 50k+ daily transactions", "cut report generation time by 40%").
+  Do not include confidential or internal system details.
+-->
+
+- Build and maintain backend services and REST APIs that support core banking operations
+- Design data access layers with a focus on performance, data integrity and security
+- Work within the strict security, compliance and audit requirements of a regulated financial institution
+- Work with cross-functional teams on code reviews, testing and production releases
+
+---
+
+## 🚀 Featured Projects
+
+<!--
+  TODO: Replace the rows below with your 3–4 strongest personal or open-source projects.
+  Most bank work is proprietary, so public projects are how recruiters see your code.
+  Recruiters look for: what it does, the stack, and a live demo or repo link.
+-->
+
+| Project | Description | Stack | Links |
+| :-- | :-- | :-- | :-- |
+| **Project One** | One-line summary of the problem it solves and the result. | `Next.js` `TypeScript` `Prisma` | [Live](#) · [Code](#) |
+| **Project Two** | One-line summary of the problem it solves and the result. | `NestJS` `PostgreSQL` | [Live](#) · [Code](#) |
+| **Project Three** | One-line summary of the problem it solves and the result. | `ASP.NET Core` `EF Core` `Dapper` | [Live](#) · [Code](#) |
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cen-smart&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0B1220&title_color=3B82F6&icon_color=3B82F6&text_color=E2E8F0" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cen-smart&layout=compact&hide_border=true&bg_color=0B1220&title_color=3B82F6&text_color=E2E8F0" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=cen-smart&hide_border=true&background=0B1220&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=E2E8F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8&stroke=1E293B" alt="GitHub streak" />
+</p>
 
 <details>
-  <summary><b>📊 GitHub Stats</b></summary>
+  <summary><b>📈 Contribution graph</b></summary>
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cen-smart&bg_color=0D1117&title_color=f9826c&text_color=fdfdfd&icon_color=f9826c&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  &nbsp;&nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cen-smart&bg_color=0D1117&title_color=f9826c&text_color=fdfdfd&show_icons=true&hide_border=true&layout=compact" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=cen-smart&hide_border=true&bg_color=0B1220&color=E2E8F0&line=3B82F6&point=FFFFFF&area=true&area_color=3B82F6" alt="Contribution graph" />
 </details>
 
-<details>
-  <summary><b>🏆 GitHub Trophies</b></summary>
-  <br />
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=cen-smart&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" />
-  </p>
-</details>
+---
 
-<details>
-  <summary><b>📈 GitHub Streaks</b></summary>
-  <br />
-  <p align="center">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cen-smart&theme=dark&hide_border=true&background=0D1117&stroke=0000&count_private=true&include_all_commits=true" />
-    <img src="https://activity-graph.herokuapp.com/graph?username=cen-smart&count_private=true&hide_border=true&bg_color=0d1117&theme=github" />
-  </p>
-</details>
+## 📫 Let's Work Together
 
-<details>
-  <summary><b>💼 Open Source Projects</b></summary>
-  <br />
-  <table>
-    <thead align="center">
-      <tr border: none;>
-        <td><b>💻 Projects</b></td>
-        <td><b>🌟 Stars</b></td>
-        <td><b>🍴 Forks</b></td>
-        <td><b>🐛 Issues</b></td>
-        <td><b>🔔 Pull Requests</b></td>
-        <td><b>👨‍💻 Language</b></td>
-      </tr>
-    </thead>
-  </table>
-  <br />
-</details>
+I'm always happy to connect with engineers, recruiters and teams working on backend, fintech or full stack projects.
+The fastest way to reach me is by [email](mailto:nnanna.echi018@uniport.edu.ng) or on [LinkedIn](https://linkedin.com/in/nnanna-echi-445b6249).
+
+<p align="center">
+  <i>Thanks for stopping by — let's build something great.</i>
+</p>
