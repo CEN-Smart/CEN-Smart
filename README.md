@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://my-bio-three.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0B1D3A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/nnanna-echi-445b6249"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/cen-smart/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:nnanna.echi018@uniport.edu.ng"><img src="https://img.shields.io/badge/Email-3B82F6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://stackoverflow.com/users/17222800"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
   <a href="https://medium.com/@echinnannachukwuemeka"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
@@ -40,7 +40,7 @@ I work across two ecosystems:
 
 My background in **Petroleum Engineering** shaped how I work: analytical, detail-oriented, and focused on systems that hold up under real-world load.
 
-**What I bring to a team**
+### What I bring to a team
 
 - 🧱 Clean, layered architecture (controllers → services → data access) that's easy to test and extend
 - 🔐 Security-first APIs — authentication, authorization, input validation
@@ -53,19 +53,19 @@ My background in **Petroleum Engineering** shaped how I work: analytical, detail
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,cs,html,css&theme=dark" alt="TypeScript, JavaScript, C#, HTML, CSS" />
 </p>
 
-**Front-end**
+### Front-end
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="React, Next.js, Tailwind CSS" />
 </p>
 
-**Back-end & Data**
+### Back-end & Data
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,dotnet,prisma,mongodb&theme=dark" alt="Node.js, Express, NestJS, .NET, Prisma, MongoDB" />
@@ -74,7 +74,7 @@ My background in **Petroleum Engineering** shaped how I work: analytical, detail
   <img src="https://img.shields.io/badge/Dapper-1E3A8A?style=for-the-badge&logo=dotnet&logoColor=white" alt="Dapper" />
 </p>
 
-**Tools**
+### Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Git, GitHub, VS Code, Postman" />
@@ -86,7 +86,7 @@ My background in **Petroleum Engineering** shaped how I work: analytical, detail
 
 ### Backend Developer · [First Bank of Nigeria](https://www.firstbanknigeria.com/)
 
-*Lagos, Nigeria · Present*
+📍 *Lagos, Nigeria · Present*
 
 <!--
   TODO: Change these bullets to match your actual work, and add numbers where you can
@@ -111,9 +111,9 @@ My background in **Petroleum Engineering** shaped how I work: analytical, detail
 
 | Project | Description | Stack | Links |
 | :-- | :-- | :-- | :-- |
-| **Project One** | One-line summary of the problem it solves and the result. | `Next.js` `TypeScript` `Prisma` | [Live](#) · [Code](#) |
-| **Project Two** | One-line summary of the problem it solves and the result. | `NestJS` `PostgreSQL` | [Live](#) · [Code](#) |
-| **Project Three** | One-line summary of the problem it solves and the result. | `ASP.NET Core` `EF Core` `Dapper` | [Live](#) · [Code](#) |
+| **Project One** | One-line summary of the problem it solves and the result. | `Next.js` `TypeScript` `Prisma` | [Live](https://project-one.vercel.app) · [Code](https://github.com/cen-smart/project-one) |
+| **Project Two** | One-line summary of the problem it solves and the result. | `NestJS` `PostgreSQL` | [Live](https://project-two.vercel.app) · [Code](https://github.com/cen-smart/project-two) |
+| **Project Three** | One-line summary of the problem it solves and the result. | `ASP.NET Core` `EF Core` `Dapper` | [Live](https://project-three.vercel.app) · [Code](https://github.com/cen-smart/project-three) |
 
 ---
 
@@ -139,7 +139,7 @@ My background in **Petroleum Engineering** shaped how I work: analytical, detail
 ## 📫 Let's Work Together
 
 I'm always happy to connect with engineers, recruiters and teams working on backend, fintech or full stack projects.
-The fastest way to reach me is by [email](mailto:nnanna.echi018@uniport.edu.ng) or on [LinkedIn](https://linkedin.com/in/nnanna-echi-445b6249).
+The fastest way to reach me is by [email](mailto:nnanna.echi018@uniport.edu.ng) or on [LinkedIn](https://www.linkedin.com/in/cen-smart/).
 
 <p align="center">
   <i>Thanks for stopping by — let's build something great.</i>
