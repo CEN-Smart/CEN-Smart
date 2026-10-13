@@ -27,7 +27,7 @@
 
 ## 👨🏾‍💻 About Me
 
-<img align="right" src="./assets/profile.png" alt="Nnanna Echi" width="240" />
+<img align="right" src="./assets/profile-photo.jpg" alt="Nnanna Echi" width="240" />
 
 I'm a **Backend Developer at [First Bank of Nigeria](https://www.firstbanknigeria.com/)**, where I build and maintain backend services for banking systems that need to be reliable, secure and auditable.
 
